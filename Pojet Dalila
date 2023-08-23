@@ -11,6 +11,10 @@
             </ul>
         </nav>
     </header>
+    <section id="video">
+        <h2>Welcome</h2>
+        <iframe width="560" height="315" src="https://youtu.be/cpP-fCo8Dn4" frameborder="0" allowfullscreen></iframe>
+    </section>
     <section id="about">
         <h2>About Me</h2>
         <p>Professional with extensive years of experience in the ﬁeld of local development, combined with training in project management and a strong ability to acquire new knowledge. Able to work both collaboratively and independently, I demonstrate a strong sense of organization and proven skills in coordination and leadership.</p>
@@ -41,10 +45,6 @@
     
             <input type="submit" value="Submit">
         </form>
-    </section>
-    <section id="video">
-        <h2>My Video</h2>
-        <iframe width="560" height="315" src="https://www.facebook.com/watch/?v=270809855008522" frameborder="0" allowfullscreen></iframe>
     </section>
     <footer>
         <p>&copy; 2023 Dalila Ksir</p>
